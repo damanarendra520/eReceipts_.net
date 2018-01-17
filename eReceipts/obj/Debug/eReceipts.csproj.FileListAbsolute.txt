@@ -1,0 +1,15 @@
+c:\users\dnare\source\repos\eReceipts\eReceipts\bin\Debug\eReceipts.exe.config
+c:\users\dnare\source\repos\eReceipts\eReceipts\bin\Debug\eReceipts.exe
+c:\users\dnare\source\repos\eReceipts\eReceipts\bin\Debug\eReceipts.pdb
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.csprojResolveAssemblyReference.cache
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.Properties.Resources.resources
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.csproj.GenerateResource.Cache
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.csproj.CoreCompileInputs.cache
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.exe
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.pdb
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.eReceipts.resources
+c:\users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.addReceipt.resources
+C:\Users\dnare\source\repos\eReceipts\eReceipts\bin\Debug\MySql.Data.dll
+C:\Users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.viewReceipts.resources
+C:\Users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.graphicalViewResults.resources
+C:\Users\dnare\source\repos\eReceipts\eReceipts\obj\Debug\eReceipts.Home.resources
